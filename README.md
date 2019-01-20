@@ -61,6 +61,5 @@ Average Grade: 8.14/10
 - German (started to learn)
 
 ### Programming Languages
-- Python (advanced knowledge)
+- Python and libraries (advanced knowledge)
 - C and Java (good knowledge)
-- Javascript (passing knowledge)
