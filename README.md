@@ -7,9 +7,8 @@
 - github ([link](https://github.com/vturrisi))
 
 ### Areas of Interest
-- Machine Learning
-- Data Stream Mining
 - Deep Learning
+- Data Stream Mining
 - Network Security
 - Computer Vision
 
